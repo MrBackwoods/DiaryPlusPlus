@@ -1,2 +1,2 @@
 # DiaryPlusPlus
-Little diary console C++ app to demonstrate usage of SQLite
+Little diary app to demonstrate usage of SQLite
